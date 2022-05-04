@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vigil-electric-supply/static/css/main.073c9b0a.css",
+    "main.js": "/vigil-electric-supply/static/js/main.22d425be.js",
+    "static/js/787.ece702a1.chunk.js": "/vigil-electric-supply/static/js/787.ece702a1.chunk.js",
+    "static/media/logo.svg": "/vigil-electric-supply/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vigil-electric-supply/index.html",
+    "main.073c9b0a.css.map": "/vigil-electric-supply/static/css/main.073c9b0a.css.map",
+    "main.22d425be.js.map": "/vigil-electric-supply/static/js/main.22d425be.js.map",
+    "787.ece702a1.chunk.js.map": "/vigil-electric-supply/static/js/787.ece702a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.22d425be.js"
+  ]
+}
